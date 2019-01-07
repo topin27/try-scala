@@ -1,6 +1,6 @@
 ---
 title: Scala Basics
-...
+---
 
 # 基础语法
 
